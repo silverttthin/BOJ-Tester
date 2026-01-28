@@ -108,7 +108,7 @@ BOJ Tester는 다음과 같은 설정을 제공합니다:
 
 # BOJ Tester
 
-BOJ Tester is a Visual Studio Code extension that helps you solve problems on [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net) more efficiently.
+BOJ Tester is a Visual Studio Code extension that helps you solve problems more efficiently on [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net) which is competitive programming platform.
 With this extension, you can **open problem files**, **view problem details**, **run/add/edit/delete test cases**, and **submit code** easily — all inside VS Code.
 
 ## What did I contribute?
