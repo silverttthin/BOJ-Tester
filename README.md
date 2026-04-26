@@ -124,7 +124,7 @@ As a result, code written with modern C++ standards caused compilation errors.
 ### 💡
 
 The simple fix is to add the `-std=c++17` option when running the command.
-To add this as a generally useful feature, I implemented the following functionality and contributed it:
+To add this as a generally useful feature, I implemented the custom compile script feature and contributed it:
 
 <img width="473" height="295" alt="image" src="https://github.com/user-attachments/assets/2bb6b361-c92f-4915-a52f-d04b288d8831" />
 
