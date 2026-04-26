@@ -1,6 +1,6 @@
 # BOJ Tester
 
-<a href=#english-version>[English]</a>
+<h2><a href=#english-version>[English]</a></h2>
 
 BOJ Tester는 [백준 온라인 저지(BOJ)](https://www.acmicpc.net)의 문제를 더욱 효율적으로 풀 수 있도록 도와주는 Visual Studio Code 확장 프로그램입니다.
 이 확장 기능을 사용하면 vs code 안에서 **문제 파일을 열고**, **문제 정보를 확인하며**, **테스트 케이스 실행,추가,수정,삭제** 및 **코드 제출**을 쉽게 할 수 있습니다.
